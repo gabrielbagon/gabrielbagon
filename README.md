@@ -1,6 +1,6 @@
 ## Oláaa! Me chamo Gabriel Bagon
 
-- 🔭 Desenvolvedor front-end e cantor
+- 🔭 Desenvolvedor front-end e cantor nas horas vagas
 - 🌱 Atualmente estou estudando React (Next.js)
 - 📫 Contate-me no e-mail: gabrielegydiobagon@gmail.com
 - 😄 Pronouns: he/him
