@@ -1,7 +1,7 @@
 ## Hey! I'm Gabriel Bagon
 
-- 💻 I'm a front-end developer.
-- 📚 I'm currently studying React and Next.js.
+- 💻 I'm a Front-End Developer.
+- 📚 I'm currently studying React, Next.js and Node.js.
 - 📫 e-mail: gabrielegydiobagon@gmail.com
 - 😄 Pronouns: he/him
 
